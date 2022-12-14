@@ -3,6 +3,8 @@
 Horribly ineffcient and slightly destructive "fix" for the Droolon F1 in Neos.
 Use at your own risk and only if youre as frustrated as I was.
 
+This doesn't work on all avatars for some god forsaken reason and I have no clue why but oh well.
+
 It is slightly destructive as in it will null the rotation drive on the EyeRotationDriver and won't restore it.
 Anything else about it is non-persistant.
 
