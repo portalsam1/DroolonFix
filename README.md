@@ -5,6 +5,8 @@ Use at your own risk and only if youre as frustrated as I was.
 
 This doesn't work on all avatars for some god forsaken reason and I have no clue why but oh well.
 
+# Oh god oh fuck there's a bug when this only works when you're the host and otherwise breaks other peoples eyes seriously do not use this.
+
 It is slightly destructive as in it will null the rotation drive on the EyeRotationDriver and won't restore it.
 Anything else about it is non-persistant.
 
